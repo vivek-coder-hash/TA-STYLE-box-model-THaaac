@@ -54,6 +54,6 @@ img{border-radius: 10px;}
   }
 
   .foot{text-align: center;
-background-color: rosybrown; padding: 10px;}
-.box{width: 600px; height: 400px; background-color: #D1D631; border: dotted 2px black;}
-.ancor{border: dashed 3px blue;}
+background-color: rosybrown; padding: 10px; height: 30px;}
+.box{width: 600px; height: 400px; background-color: #D1D631; border: dotted 2px black; padding: 10px;}
+.ancor{border-bottom: 3px dashed blue; background-color: #a1a1a1; padding: 5px; font-size: 24px;}
